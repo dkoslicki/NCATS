@@ -1,3 +1,6 @@
+# This repo is archived!
+This repo is supersceded by [the RTX team repo](https://github.com/RTXteam/RTX).
+
 # RTX Reasoning Tool proof-of-concept (POC) software
 
 The RTX Reasoning Tool POC software is being collaboratively developed by a 
